@@ -1,5 +1,5 @@
 # InsightEngine  
-A **Streamlit-based application** that automates survey response validation using **rule-based filters** and **AI models** like **RoBERTa** and **DistilBERT**.  
+A **Streamlit-based application** that automates survey response validation using **rule-based filters** and **AI models** like **RoBERTa** and **DistilBERT** for Market Survey Analysis.
 
 
 ## Features  
