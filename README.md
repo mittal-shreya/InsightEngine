@@ -26,7 +26,7 @@ A **Streamlit-based application** that automates survey response validation usin
 ### **Final Flagging & Report Generation**  
 * Flags responses based on **rule-based & AI checks**.  
 * **Streamlit Dashboard** displays flagged vs. clean responses.  
-* **Downloadable Reports** (Full dataset or flagged entries).  
+* **Downloadable Reports** (Full dataset or flagged entries). 
 
 ---
 
