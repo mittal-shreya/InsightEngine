@@ -6,7 +6,7 @@ A **Streamlit-based application** that automates survey response validation usin
 
 ### **File Upload & Data Ingestion**  
  * Uploads an **Excel file** with survey responses.  
- * Reads the file and **standardizes column names** for consistency.  
+ * Reads the file and **standardizes column names** for consistency. 
 
 ### **Preprocessing & Text Cleaning**  
 * Converts text to **lowercase** for uniform processing.  
