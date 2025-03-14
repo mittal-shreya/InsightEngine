@@ -35,7 +35,7 @@ A **Streamlit-based application** that automates survey response validation usin
 Clone the repository and install dependencies:  
 
 ```bash
-git clone https://github.com/your-username/market-survey-analysis.git
+git clone https://github.com/mittal-shreya/InsightEngine.git
 cd market-survey-analysis
 pip install -r requirements.txt
 ```
